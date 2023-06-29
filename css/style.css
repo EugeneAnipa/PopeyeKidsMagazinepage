@@ -1,0 +1,32 @@
+* body {
+  background-color: rgb(191, 244, 244);
+
+  font-family: "Belanosima", sans-serif;
+  font-family: "Caprasimo", cursive;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Pacifico", cursive;
+  font-family: "Permanent Marker", cursive;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Mono", monospace;
+  font-family: "Ubuntu", sans-serif;
+}
+.newblue {
+  background-color: rgb(71, 238, 238);
+}
+
+.popeyecolor {
+  color: aliceblue;
+  font-family: "Caprasimo", cursive, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+  justify-content: center;
+}
+
+.first {
+  color: antiquewhite;
+}
+
+.popeyecrew {
+  filter: grayscale(35%);
+}
